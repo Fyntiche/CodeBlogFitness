@@ -9,6 +9,7 @@ namespace CodeBlogFintess.BL
     /// <summary>
     /// Пользователь.
     /// </summary>
+    [Serializable]
     public class User
     {
         #region Свойства
